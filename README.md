@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/GustavoAlvess/GustavoAlvess/assets/your-github-user-id/banner-modern.png" width="75%" alt="Banner sofisticado"/>
-</p>
+
 
 <h1 align="center">Gustavo Alves</h1>
 
