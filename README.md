@@ -46,3 +46,4 @@
 <p align="center">
   <sub>© 2025 Gustavo Alves • Feito com dedicação e tecnologia</sub>
 </p>
+
